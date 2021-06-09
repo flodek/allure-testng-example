@@ -1,4 +1,4 @@
-![build status](https://dev.azure.com/vshumara/ThePipeline/_apis/build/status/flodek.allure-testng-example?branchName=master)
+[![Build Status](https://dev.azure.com/vshumara/ThePipeline/_apis/build/status/flodek.allure-testng-example?branchName=master)](https://dev.azure.com/vshumara/ThePipeline/_apis/build/status/flodek.allure-testng-example?branchName=master)
 
 ## Allure TestNG Example
 
